@@ -65,7 +65,7 @@ kworker    = 실제 일하는 직원
          ↓
 2. work가 workqueue 대기열에 등록됨  (pending 상태)
          ↓
-3. workqueue_activate_work           (active 상태로 전환)
+3. workqueue_activate_work      (active 상태로 전환)
          ↓
 4. kworker 스레드가 work 가져다가 실행
 ```
@@ -284,6 +284,3 @@ Soft IRQ는 스케줄링 없이 인터럽트 컨텍스트에서 바로 실행되
 ## 참고
 
 - [Linux Kernel Source - kernel/workqueue.c](https://elixir.bootlin.com/linux/latest/source/kernel/workqueue.c)
-- [Linux Kernel Source - kernel/irq/manage.c](https://elixir.bootlin.com/linux/latest/source/kernel/irq/manage.c)
-- Linux Kernel Development, Robert Love (3rd Edition) — Chapter 8
-- [kernel.org ftrace documentation](https://www.kernel.org/doc/html/latest/trace/ftrace.html)
