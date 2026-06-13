@@ -5,7 +5,6 @@ categories: [Security, Software Security]
 tags: [blockchain, bitcoin, pow, pos, consensus, merkle-tree, smart-contract, 51-attack, double-spending]
 ---
 
-> 보안 강의 Chapter 6 Blockchain 내용을 정리한 학습 노트입니다.
 >
 > 큰 흐름: **중앙집중형의 한계 → 비트코인의 등장 동기 → 블록체인 구조 → 채굴(Mining)과 PoW → 합의(Consensus)와 공격 → PoW의 한계 → PoS와 변형 → 스마트 컨트랙트**
 

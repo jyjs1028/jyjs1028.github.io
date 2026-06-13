@@ -5,10 +5,6 @@ categories: [Security, Software Security]
 tags: [supply-chain, log4j, log4shell, cve, jndi, ldap, oss, typosquatting, npm]
 ---
 
-> 보안 강의 Chapter 5 Software Supply Chain Security 내용을 정리한 학습 노트입니다.
-
----
-
 ## 1. Supply Chain의 기본 개념
 
 **Supply Chain(공급망)** 은 원자재 획득부터 최종 제품을 소비자에게 전달하기까지의 전 과정에 관여하는 기업, 사람, 활동, 정보, 자원의 네트워크다.

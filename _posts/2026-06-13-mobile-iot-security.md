@@ -1,12 +1,10 @@
 ---
-title: "Mobile & IoT Security — iOS/Android 비교·SIM Cloning·Permission·Adware 정리"
+title: "Mobile Security — iOS/Android 비교·SIM Cloning·Permission·Adware 정리"
 date: 2026-06-13 02:00:00 +0900
 categories: [Security, Software Security]
 tags: [mobile-security, ios, android, sim-cloning, permission, adware, malware, webview, accessibility-service, sonicspy]
 ---
 
-> 보안 강의 Chapter 7 Mobile & IoT Security 내용을 정리한 학습 노트입니다.
->
 > 큰 흐름: **① iOS vs. Android 보안 철학 비교 → ② Mobile Network Security (SKT 사건 중심) → ③ Permission-based Access Control → ④ SonicSpy (스파이웨어 사례) → ⑤ Accessibility Service 악용 → ⑥ Adware (Judy 사례 + WebView)**
 
 ---
